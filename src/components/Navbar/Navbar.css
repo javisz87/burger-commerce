@@ -1,0 +1,42 @@
+.logo {
+  width: 70px;
+}
+.burgerHouse {
+  text-shadow: 0.5px 0.5px #c27474;
+  display: flex;
+  align-items: center;
+  color: rgb(192, 19, 19);
+  font-weight: bolder;
+  font-size: 35px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.897);
+}
+.NavbarLink {
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(192, 19, 19);
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, 0.856);
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+  border: rgb(192, 19, 19) 3px solid;
+  text-shadow: 0.5px 0.5px #000000;
+}
+
+nav div {
+  display: flex;
+  align-items: center;
+}
+
+.Filtros {
+  color: rgb(192, 19, 19);
+  font-weight: bolder;
+  font-size: 30px;
+  margin: 0 30px;
+  text-shadow: 0.5px 0.5px #c27474;
+}

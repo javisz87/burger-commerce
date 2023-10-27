@@ -1,0 +1,55 @@
+.CardItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ItemImg {
+  width: 30vw;
+  border-radius: 15px;
+}
+
+h2 {
+  font-size: 50px;
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 100px;
+  border: rgb(0, 0, 0) 3px solid;
+  text-shadow: 1px 1px #807d7d;
+  border-radius: 15px;
+  background-color: rgba(235, 23, 23, 0.801);
+  padding: 15px 30px;
+}
+
+.Info {
+  font-size: 25px;
+  font-weight: bolder;
+  text-align: center;
+  padding: 25px;
+}
+
+.Info span {
+  font-size: 35px;
+  color: rgb(235, 23, 23);
+  text-shadow: 1px 1px #000000;
+}
+
+.Precio {
+  font-size: 35px;
+}
+
+.BotonCarrito {
+  margin: 50px 0px;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bolder;
+  color: rgb(255, 0, 0);
+  padding: 10px 30px;
+  border-bottom: rgb(0, 0, 0) 3px Solid;
+  border-radius: 30px;
+  border-top: rgb(0, 0, 0) 3px Solid;
+  background-color: rgba(0, 0, 0, 0.199);
+}
+.ItemFooter {
+  min-height: 100px;
+}

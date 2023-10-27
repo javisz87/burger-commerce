@@ -1,0 +1,15 @@
+.Checkout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: rgb(0, 0, 0) 3px solid;
+  border-radius: 15px;
+  padding: 100px;
+  background-color: rgba(255, 255, 255, 0.548);
+  margin: 30px;
+}
+
+#formulario input {
+  margin: 10px;
+  font-size: 20px;
+}

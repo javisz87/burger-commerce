@@ -1,0 +1,62 @@
+h1 {
+  font-size: 45px;
+  font-weight: bolder;
+  text-align: center;
+  color: rgb(212, 17, 17);
+  text-shadow: 2px 2px #000000;
+  background-color: rgba(255, 255, 255, 0.404);
+  padding: 20px;
+  border-bottom: rgb(0, 0, 0) 5px Solid;
+  border-radius: 30px;
+  border-top: rgb(0, 0, 0) 3px Solid;
+}
+
+.productos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: rgb(0, 0, 0) 3px solid;
+  border-radius: 15px;
+  padding: 100px;
+  background-color: rgba(255, 255, 255, 0.548);
+  margin: 30px;
+}
+.productos div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: rgb(0, 0, 0) 3px solid;
+  border-radius: 15px;
+  padding: 50px;
+  margin-bottom: 150px;
+  background-color: rgba(235, 23, 23, 0.692);
+}
+
+.productos h3 {
+  font-size: 35px;
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 100px;
+  border: rgb(0, 0, 0) 3px solid;
+  text-shadow: 1px 1px #807d7d;
+  border-radius: 15px;
+  background-color: white;
+  padding: 15px 30px;
+}
+
+.productos p {
+  color: red;
+  text-shadow: 1px 1px #807d7d;
+  font-size: 30px;
+  font-weight: bolder;
+  text-align: center;
+  border: rgb(0, 0, 0) 3px solid;
+  border-radius: 15px;
+  background-color: white;
+  padding: 10px 50px;
+}
+
+.productoImg {
+  width: 30vw;
+  border-radius: 15px;
+}

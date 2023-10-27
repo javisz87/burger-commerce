@@ -1,0 +1,28 @@
+.Eliminar {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgb(7, 7, 7);
+  padding: 10px;
+  border: rgb(255, 188, 3) 3px Solid;
+  border-radius: 30px;
+  background-color: rgba(233, 180, 5, 0.842);
+}
+
+.Carrito {
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgb(7, 7, 7);
+  border-bottom: rgb(255, 3, 3) 3px Solid;
+  padding: 10px 15px;
+  text-align: center;
+}
+
+.Carrito thead tr th {
+  font-size: 30px;
+  padding: 10px 15px;
+}
+
+h4 {
+  font-size: 25px;
+}
